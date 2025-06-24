@@ -78,7 +78,6 @@ fun WeatherPage(viewModel: WeatherViewModel) {
                 }
             )
         }
-
         // Weather Content
         when (val result = weatherResult.value) {
             is NetworkResponse.Error -> {
