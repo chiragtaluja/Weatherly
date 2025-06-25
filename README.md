@@ -2,8 +2,6 @@
 
 A sleek and minimal weather app built with **Jetpack Compose** and **Kotlin**, providing real-time weather updates using the **WeatherAPI**. Weatherly focuses on a clean UI and smooth user experience to deliver weather data quickly and beautifully.
 
-![Weatherly Banner](https://raw.githubusercontent.com/chiragtaluja/Weatherly/main/banner.png) <!-- Optional: Add a screenshot or banner image -->
-
 ---
 
 ## 🚀 Features
@@ -46,11 +44,7 @@ You can register there for your own free API key.
 <!-- Add actual screenshot links or update paths -->
 | Search Page | Weather Display |
 |-------------|-----------------|
-| ![Search](![WhatsApp Image 2025-06-25 at 15 30 35_0584672e](https://github.com/user-attachments/assets/28abd8cd-3c6b-4782-9e31-b785755f0a4f)
-)
-) | ![Weather](![WhatsApp Image 2025-06-25 at 15 30 35_6826c2de](https://github.com/user-attachments/assets/c00f805f-e74a-4a8f-85fe-1cd8abbed8fb)
-)
-) |
+|![WhatsApp Image 2025-06-25 at 15 30 35_0584672e](https://github.com/user-attachments/assets/28abd8cd-3c6b-4782-9e31-b785755f0a4f)|![WhatsApp Image 2025-06-25 at 15 30 35_6826c2de](https://github.com/user-attachments/assets/c00f805f-e74a-4a8f-85fe-1cd8abbed8fb)|
 
 ---
 
@@ -66,12 +60,6 @@ You can register there for your own free API key.
 ## 🧑‍💻 Author
 
 Made with ❤️ by [Chirag Taluja](https://github.com/chiragtaluja)
-
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE)
 
 ---
 
