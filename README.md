@@ -46,7 +46,11 @@ You can register there for your own free API key.
 <!-- Add actual screenshot links or update paths -->
 | Search Page | Weather Display |
 |-------------|-----------------|
-| ![Search](screenshots/search.png) | ![Weather](screenshots/weather.png) |
+| ![Search](![WhatsApp Image 2025-06-25 at 15 30 35_0584672e](https://github.com/user-attachments/assets/28abd8cd-3c6b-4782-9e31-b785755f0a4f)
+)
+) | ![Weather](![WhatsApp Image 2025-06-25 at 15 30 35_6826c2de](https://github.com/user-attachments/assets/c00f805f-e74a-4a8f-85fe-1cd8abbed8fb)
+)
+) |
 
 ---
 
